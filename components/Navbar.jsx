@@ -156,7 +156,7 @@ setTheme("light");
                   </a>
               
               
-                <a href="/../public/assets/node.png" download>
+                <a href="https://drive.google.com/file/d/123mEp9VXZ0j6c_5nf3UQTUFHAjMM9YDX/view?usp=drivesdk" target='_blank' rel="noreferrer">
                 <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer mx-2 md:mx-3  hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9]   dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
                   <HiDocumentText/></div>
                 </a>
