@@ -135,21 +135,21 @@ setTheme("light");
             <div className='mt-10'>
               <p className='pb-3 text-[#7b28ff] font-bold '>Contact Me</p>
               <div className='flex flex-row mt-3'>
-              <a href="https://www.linkedin.com/in/suvrojyoti-bhuniya-a497881b1" target='_blank'>
+              <a href="https://www.linkedin.com/in/suvrojyoti-bhuniya-a497881b1" target='_blank' rel="noreferrer">
                 <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer  mx-2 md:mx-3  hover:text-[#7b28ff] hover:shadow-[#7b28ff] justify-center active:scale-[0.9]   dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
                  <FaLinkedin/>
                  </div>
                 </a>
               
               
-                <a href="https://github.com/getcodebySuvro" target='_blank' >
+                <a href="https://github.com/getcodebySuvro" target='_blank' rel="noreferrer" >
                 <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer mx-2 md:mx-3   hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9]   dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
                   <FaGithub/>
                   </div>
                   </a>
               
               
-                <a href="mailto:suvrojyotibhuniya@gmail.com" target='_blank'>
+                <a href="mailto:suvrojyotibhuniya@gmail.com" target='_blank' rel="noreferrer">
                 <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer mx-2 md:mx-3  hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9]   dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
                   <AiFillMail/>
                   </div>

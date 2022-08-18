@@ -38,12 +38,12 @@ const Singleproject = () => {
                </div>
                 
                 <div className='flex my-1  justify-center items-center '>
-                    <a href='https://github.com/getcodebySuvro/MovieWeb' target="_blank" className='w-[50%]'>
+                    <a href='https://github.com/getcodebySuvro/MovieWeb' target="_blank" rel="noreferrer" className='w-[50%]'>
                         <div className='flex justify-center p-2 cursor-pointer  mt-2 rounded-full uppercase font-bold text-[#7b28ff] hover:shadow-slate-400 shadow-lg hover:bg-[#7b28ff] hover:text-white duration-300 active:scale-90 dark:shadow-none dark:hover:shadow-none dark:text-slate-300 dark:hover:text-white dark:bg-[#170338]/80 dark:hover:bg-[#170338]'>
                             Code
                         </div>
                     </a>
-                    <a href='https://moviewebwithsuvro.netlify.app/' target='_blank' className='w-[50%]'>
+                    <a href='https://moviewebwithsuvro.netlify.app/' target="_blank" rel="noreferrer" className='w-[50%]'>
                         <div className='flex justify-center p-2 cursor-pointer  mt-2 ml-3 rounded-full uppercase font-bold text-[#7b28ff] hover:shadow-slate-400 shadow-lg hover:bg-[#7b28ff] hover:text-white duration-300 active:scale-90  dark:shadow-none dark:hover:shadow-none dark:text-slate-300 dark:hover:text-white dark:bg-[#170338]/80 dark:hover:bg-[#170338]'>
                             Demo
                         </div>
@@ -89,12 +89,12 @@ const Singleproject = () => {
                 
                 <div className='flex my-1  justify-center items-center'>
                     
-                     <a href='https://github.com/getcodebySuvro/TempChat' target="_blank" className='w-[50%] '>
+                     <a href='https://github.com/getcodebySuvro/TempChat' target="_blank" rel="noreferrer" className='w-[50%] '>
                         <div className='justify-center flex p-2 cursor-pointer  mt-2 rounded-full uppercase font-bold text-[#7b28ff] hover:shadow-slate-400 shadow-lg hover:bg-[#7b28ff] hover:text-white duration-300 active:scale-90  dark:shadow-none dark:hover:shadow-none dark:text-slate-300 dark:hover:text-white dark:bg-[#170338]/80 dark:hover:bg-[#170338]'>
                             Code
                         </div>
                     </a>
-                    <a href='https://tempchatwithsuvro.netlify.app/' target="_blank" className='w-[50%] '>
+                    <a href='https://tempchatwithsuvro.netlify.app/' target="_blank" rel="noreferrer" className='w-[50%] '>
                         <div className='justify-center flex p-2 cursor-pointer mt-2 ml-3 rounded-full uppercase font-bold text-[#7b28ff] hover:shadow-slate-400 shadow-lg hover:bg-[#7b28ff] hover:text-white duration-300 active:scale-90  dark:shadow-none dark:hover:shadow-none dark:text-slate-300 dark:hover:text-white dark:bg-[#170338]/80 dark:hover:bg-[#170338]'>
                             Demo
                         </div>
@@ -141,12 +141,12 @@ const Singleproject = () => {
                 
                 <div className='flex my-1  justify-center items-center'>
                     
-                     <a href='https://github.com/getcodebySuvro/PinPlace' target="_blank" className='w-[50%] '>
+                     <a href='https://github.com/getcodebySuvro/PinPlace' target="_blank" rel="noreferrer" className='w-[50%] '>
                         <div className='justify-center flex p-2 cursor-pointer  mt-2 rounded-full uppercase font-bold text-[#7b28ff] hover:shadow-slate-400 shadow-lg hover:bg-[#7b28ff] hover:text-white duration-300 active:scale-90  dark:shadow-none dark:hover:shadow-none dark:text-slate-300 dark:hover:text-white dark:bg-[#170338]/80 dark:hover:bg-[#170338]'>
                             Code
                         </div>
                     </a>
-                    <a href='https://pinplacewithsuvro.netlify.app/' target="_blank" className='w-[50%] '>
+                    <a href='https://pinplacewithsuvro.netlify.app/' target="_blank" rel="noreferrer" className='w-[50%] '>
                         <div className='justify-center flex p-2 cursor-pointer mt-2 ml-3 rounded-full uppercase font-bold text-[#7b28ff] hover:shadow-slate-400 shadow-lg hover:bg-[#7b28ff] hover:text-white duration-300 active:scale-90  dark:shadow-none dark:hover:shadow-none dark:text-slate-300 dark:hover:text-white dark:bg-[#170338]/80 dark:hover:bg-[#170338]'>
                             Demo
                         </div>

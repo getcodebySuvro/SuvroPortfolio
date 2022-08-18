@@ -34,7 +34,7 @@ const Contact = () => {
                
               <div className='flex flex-row mt-12 '>
                     <div data-aos="fade-right" data-aos-delay="1950">
-                    <a href="https://www.linkedin.com/in/suvrojyoti-bhuniya-a497881b1" target='_blank'>
+                    <a href="https://www.linkedin.com/in/suvrojyoti-bhuniya-a497881b1" target='_blank' rel="noreferrer">
                         <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer  mx-5 hover:text-[#7b28ff] hover:shadow-[#7b28ff] justify-center active:scale-[0.9] dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white' >
                         <FaLinkedin/>
                         </div>
@@ -43,7 +43,7 @@ const Contact = () => {
               
               
               <div data-aos="fade-right" data-aos-delay="1800">
-              <a href="https://github.com/getcodebySuvro" target='_blank' >
+              <a href="https://github.com/getcodebySuvro" target='_blank' rel="noreferrer" >
                 <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer mx-5  hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9] dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white' >
                   <FaGithub/>
                   </div>
@@ -53,7 +53,7 @@ const Contact = () => {
                 
               
               <div data-aos="fade-right" data-aos-delay="1700">
-                <a href="mailto:suvrojyotibhuniya@gmail.com" target='_blank'>
+                <a href="mailto:suvrojyotibhuniya@gmail.com" target='_blank' rel="noreferrer">
                     <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer mx-5  hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9] dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white' >
                       <AiFillMail/>
                       </div>
@@ -62,7 +62,7 @@ const Contact = () => {
                 
               
               <div data-aos="fade-right" data-aos-delay="1600">
-                <a href="https://www.w3schools.com/bootstrap/" target='_blank'>
+                <a href="https://www.w3schools.com/bootstrap/" target='_blank' rel="noreferrer">
                   <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer mx-5  hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9] dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white' >
                     <HiDocumentText/>
                   </div>
