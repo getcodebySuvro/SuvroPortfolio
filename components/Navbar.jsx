@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import Image from "next/Image"
-import Link from "next/Link"
+import Image from "next/image"
+import Link from "next/link"
 import {AiFillMail, AiOutlineClose,AiOutlineMenu} from "react-icons/ai"
 import {FaGithub, FaLinkedin,} from "react-icons/fa"
 import {BsMoonStarsFill,BsFillSunFill} from "react-icons/bs"

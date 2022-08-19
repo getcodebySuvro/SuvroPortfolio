@@ -1,6 +1,5 @@
 import React from 'react'
-import Image
- from 'next/image'
+import Image from 'next/image'
 const Singleproject = () => {
   return (
     <div className='sm:mx-2 lg:mx-0'>
