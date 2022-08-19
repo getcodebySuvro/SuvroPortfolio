@@ -26,28 +26,28 @@ const Main = () => {
              <div className='flex  justify-center items-center m-auto max-w-[80%] p-3 '>
              
                 <a href="https://www.linkedin.com/in/suvrojyoti-bhuniya-a497881b1" data-aos="fade-right" data-aos-delay="1000" target='_blank' rel="noreferrer">
-                <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer bg-[#ebebeb] mx-5 hover:text-[#7b28ff] hover:shadow-[#7b28ff] justify-center active:scale-[0.9] dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
+                <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer bg-[#fdfbfb] mx-5 hover:text-[#7b28ff] hover:shadow-[#7b28ff] justify-center active:scale-[0.9] dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
                  <FaLinkedin/>
                  </div>
                 </a>
               
               
                 <a href="https://github.com/getcodebySuvro" data-aos="fade-right" data-aos-delay="800" target='_blank' rel="noreferrer" >
-                <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer mx-5 bg-[#ebebeb]  hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9]  dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
+                <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer mx-5 bg-[#fdfbfb]  hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9]  dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
                   <FaGithub/>
                   </div>
                   </a>
               
               
                 <a href="mailto:suvrojyotibhuniya@gmail.com" data-aos="fade-right" data-aos-delay="600" target='_blank' rel="noreferrer">
-                <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer mx-5 bg-[#ebebeb] hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9]  dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
+                <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer mx-5 bg-[#fdfbfb] hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9]  dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
                   <AiFillMail/>
                   </div>
                   </a>
               
               
                 <a href="https://drive.google.com/file/d/12ZodpXi_UYGlMXRv1Z_PE_eKafWEVszo/view?usp=drivesdk" target='_blank' rel="noreferrer" data-aos="fade-right" data-aos-delay="400" >
-                <div className='rounded-full shadow-lg  shadow-gray-400 p-3 cursor-pointer mx-5 bg-[#ebebeb] hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9]  dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
+                <div className='rounded-full shadow-lg  shadow-gray-400 p-3 cursor-pointer mx-5 bg-[#fdfbfb] hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9]  dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
                   <HiDocumentText/></div>
                 </a>
               
