@@ -4,7 +4,7 @@ import React from 'react'
 const About = () => {
   return (
     <div className='flex flex-col  w-full h-full md:h-screen items-center  p-2 pt-20  '  id="about">
-        <div className='max-w-[1240px] m-auto mx-10 grid md:grid-cols-2 lg:grid-cols-3  gap-10 ' >
+        <div className='max-w-[1240px] m-auto mx-10  grid md:grid-cols-2 lg:grid-cols-3  gap-10' >
             <div className='md:col-span-1 lg:col-span-2 mx-2' >
                     <p className='text-xl tracking-widest uppercase text-slate-500 dark:text-slate-300' >
                         About
@@ -26,7 +26,7 @@ const About = () => {
             </div>
             <div data-aos="zoom-in-left" data-aos-delay="1700">
             <div  className='dark:shadow-none  dark:bg-[#7b28ff]/30 dark:hover:bg-[#7b28ff] w-[300px] h-[300px]  md:col-span-1 lg:col-span-1 flex bg-white-400 hover:bg-[#7b28ff]  justify-center items-center  p-5 mx-7 mt-7 lg:mt-0 rotate-6  mb-10 sm:mb-0 shadow-xl shadow-slate-400 hover:rotate-0 hover:shadow-[#7b28ff] rounded duration-300'>
-                <Image src="/../public/assets/dp.jpg" width={300} height={300} alt="Suvro" className=' rounded '/>
+                <Image src="/../public/assets/dp.jpg" width={300} height={300} alt="Suvro" className=' rounded ' objectFit='cover' priority/>
 
             </div>
             </div>

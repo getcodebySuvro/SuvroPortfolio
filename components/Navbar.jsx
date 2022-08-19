@@ -68,7 +68,7 @@ setTheme("light");
     <div className='fixed w-full h-20 shadow-xl z-[1000]  top-0 dark:bg-white/5 backdrop-blur-lg pl-3 pr-3 bg-white/30'>
       <div className='flex justify-between items-center w-full h-full px-2 2xl:px-16 rounded-full '>
         <div className=' flex justify-center items-center'>
-        <Image src="/../public/assets/dp.jpg" alt="imagehere" width={40} height={40} className='rounded-full hover:animate-spin shadow-lg ' />
+        <Image src="/../public/assets/dp.jpg" alt="Suvro" width={40} height={40} className='rounded-full hover:animate-spin shadow-lg ' objectFit='cover' priority/>
         {
           theme === "light"
           ?
@@ -114,7 +114,7 @@ setTheme("light");
         <div className =  { nav ? 'fixed left-0 top-0 w-[75%] sm:w-[60%] md:w-[45%] h-screen  bg-white  p-7 shadow-2xl ease-out duration-500 dark:bg-[#1b0146]' : 'fixed left-[-100%] top-0 p-10 ease-out duration-500'} >
           <div className='flex w-full items-center justify-between'>
             <div >
-              <Image src="/../public/assets/dp.jpg" alt="fav" width="50" height="50" className="rounded shadow-slate-400"/>
+              <Image src="/../public/assets/dp.jpg" alt="fav" width="50" height="50" className="rounded shadow-slate-400" objectFit='cover' priority/>
             </div>
             <div className='rounded-full shadow-sm shadow-gray-400 p-3 cursor-pointer dark:shadow-none dark:text-white dark:bg-[#7b28ff]' onClick={closeNav}><AiOutlineClose/></div>
           </div>
@@ -156,7 +156,7 @@ setTheme("light");
                   </a>
               
               
-                <a href="https://drive.google.com/file/d/123mEp9VXZ0j6c_5nf3UQTUFHAjMM9YDX/view?usp=drivesdk" target='_blank' rel="noreferrer">
+                <a href="https://drive.google.com/file/d/12ZodpXi_UYGlMXRv1Z_PE_eKafWEVszo/view?usp=drivesdk" target='_blank' rel="noreferrer">
                 <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer mx-2 md:mx-3  hover:text-[#7b28ff] hover:shadow-[#7b28ff] active:scale-[0.9]   dark:shadow-none dark:bg-[#7b28ff]/50 dark:hover:bg-[#7b28ff] dark:hover:text-white dark:text-white'>
                   <HiDocumentText/></div>
                 </a>
