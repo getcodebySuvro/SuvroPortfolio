@@ -7,7 +7,7 @@ const Contact = () => {
   return (
     <div className='w-full  lg:h-full p-2 mt-20  md:mb-20 lg:mb-0 pt-20   ' id='contact' >
        <div className='grid grid-cols-1 gap-8  lg:mb-15 items-center mt-20 ' >
-        <div className='max-w-[1240px] m-auto mx-10 '>
+        <div className='max-w-[1240px] m-auto mx-5 md:mx-10 '>
             <div>
             <p className='text-xl tracking-widest uppercase text-slate-500 dark:text-slate-300'   data-aos="fade-right">
                 Contact

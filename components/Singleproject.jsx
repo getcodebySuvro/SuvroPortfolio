@@ -1,5 +1,8 @@
 import React from 'react'
 import Image from 'next/image'
+import mov from './assets/mov.jpg'
+import pin from './assets/Pinplace.jpg'
+import temp from './assets/temp3dm.jpg'
 const Singleproject = () => {
   return (
     <div className='sm:mx-2 lg:mx-0'>
@@ -9,7 +12,7 @@ const Singleproject = () => {
            <div className='p-6  shadow-xl rounded-xl hover:scale-105  hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-300 dark:shadow-none dark:hover:shadow-none dark:bg-[#7b28ff]' >
     <div className='grid grid-cols-1 gap-4 justify-center items-center'>
         <div className='m-auto rounded relative'>
-            <Image src="/../public/assets/mov.jpg"  width={1000} height={500}  alt="Movieweb" className='rounded' priority objectFit='cover'/>
+            <Image src={mov}  width={1000} height={500}  alt="Movieweb" className='rounded' placeholder='blur' objectFit='cover'/>
             <div className='absolute w-full h-full bg-black/70 top-0 left-0 rounded hover:bg-transparent duration-500'></div>
             <div className='absolute bottom-2 left-0 uppercase text-white font-bold text-2xl border-b-white font-sans bg-black/40 px-3 py-1 '>MovieWeb</div>
         </div>
@@ -59,7 +62,7 @@ const Singleproject = () => {
     <div className='p-6  shadow-xl rounded-xl hover:scale-105  hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-300 dark:shadow-none dark:hover:shadow-none dark:bg-[#7b28ff]'>
     <div className='grid grid-cols-1 gap-4 justify-center items-center'>
         <div className='m-auto rounded relative'>
-        <Image src="/../public/assets/temp3dm.jpg"  width={1000} height={500} alt="html" className='rounded ' priority objectFit='cover'/>
+        <Image src={temp}  width={1000} height={500} alt="tempchat" className='rounded ' placeholder='blur' objectFit='cover'/>
             <div className='absolute w-full h-full bg-black/70 top-0 left-0 rounded hover:bg-transparent duration-500'></div>
             <div className='absolute bottom-2 left-0 uppercase text-white font-bold text-2xl border-b-white font-sans bg-black/40 px-3 py-1 '>TempChat</div>
         </div>
@@ -111,7 +114,7 @@ const Singleproject = () => {
     <div className='p-6  shadow-xl rounded-xl hover:scale-105  hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-300 dark:shadow-none dark:hover:shadow-none dark:bg-[#7b28ff]'>
     <div className='grid grid-cols-1 gap-4 justify-center items-center'>
         <div className='m-auto rounded relative  '>
-        <Image src="/../public/assets/Pinplace.jpg"  width={1000} height={500} alt="PinPlace" className='rounded ' priority objectFit='cover'/>
+        <Image src={pin}  width={1000} height={500} alt="PinPlace" className='rounded ' placeholder='blur' objectFit='cover'/>
             <div className='absolute w-full h-full bg-black/70 top-0  left-0 rounded hover:bg-transparent duration-500'></div>
             <div className='absolute bottom-2 left-0 uppercase text-white font-bold text-2xl border-b-white font-sans bg-black/40 px-3 py-1 '>PinPlace</div>
         </div>

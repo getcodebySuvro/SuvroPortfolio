@@ -3,9 +3,9 @@ import React from 'react'
 const Qualification = () => {
   return (
    <div className=' w-full lg:h-[100%] p-2 mt-20 py-20  md:py-[130px] lg:pt-[100px]' id="qualification">
-        <div className='max-w-[1240px] mx-5  flex justify-start items-center'  >
+        <div className='max-w-[1240px] mx-5 md:10 flex justify-start items-center'  >
             
-                    <div className='  mx-2  '  >
+                    <div className=' md:mx-5 '  >
                             <p className='text-xl tracking-widest uppercase text-slate-500 dark:text-slate-300' data-aos="fade-right" data-aos-delay="500" >
                                 Qualification
                             </p>
@@ -18,7 +18,7 @@ const Qualification = () => {
             
         </div>
 
-        <div  className='dark:text-white  flex justify-center items-center mt-10 md:mt-20 mx-10 md:mx-20 '>
+        <div  className='dark:text-white  flex justify-center items-center mt-10 md:mt-20 mx-5 md:mx-10 '>
                 <div  className='w-full flex flex-col lg:flex-row items-center justify-center text-center'>
                     <div data-aos="zoom-in" data-aos-delay="1300">
                             <div  className=' lg:mx-2 shadow-lg shadow-slate-400 rounded-lg px-5 py-3 flex justify-center items-center flex-col hover:shadow-[#7b28ff] hover:scale-105 hover:text-[#7b28ff]/60 ease-in duration-200 dark:shadow-none dark:bg-[#7b28ff] dark:hover:text-white '>

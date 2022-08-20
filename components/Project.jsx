@@ -6,7 +6,7 @@ import Singleproject from './Singleproject'
 const Project = () => {
   return (
     <div className=' w-full lg:h-[100%] p-2 mt-20 py-20  md:py-[130px] lg:pt-[100px] ' id='project'>
-         <div className='  flex flex-col justify-center h-full mr-10 ml-10'>
+         <div className='  flex flex-col justify-center h-full mx-5 md:mx-10'>
             <p className='text-xl tracking-widest uppercase text-slate-500 dark:text-slate-300' data-aos="fade-right">
                 My Projects
             </p>
