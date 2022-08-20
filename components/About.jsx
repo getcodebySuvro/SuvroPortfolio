@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-
+import dp from './assets/dp.jpg'
 const About = () => {
   return (
     <div className='flex flex-col  w-full h-full md:h-screen items-center  p-2 pt-20  '  id="about">
@@ -26,7 +26,7 @@ const About = () => {
             </div>
             <div data-aos="zoom-in-left" data-aos-delay="1700">
             <div  className='dark:shadow-none  dark:bg-[#7b28ff]/30 dark:hover:bg-[#7b28ff] w-[300px] h-[300px]  md:col-span-1 lg:col-span-1 flex bg-white-400 hover:bg-[#7b28ff]  justify-center items-center  p-5 mx-7 mt-7 lg:mt-0 rotate-6  mb-10 sm:mb-0 shadow-xl shadow-slate-400 hover:rotate-0 hover:shadow-[#7b28ff] rounded duration-300'>
-                <Image src="/../public/assets/dp.jpg" width={300} height={300} alt="Suvro" className=' rounded ' objectFit='cover' priority/>
+                <Image src={dp} width={300} height={300} alt="Suvro" className=' rounded ' objectFit='cover' placeholder='blur' />
 
             </div>
             </div>

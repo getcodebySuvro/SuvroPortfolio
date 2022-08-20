@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: 'Comfortaa';
-    src: url(../public/assets/comfortaa.ttf);
+    src: url(../components/assets/comfortaa.ttf);
 }
 body{
       font-family: 'Comfortaa'; 
