@@ -19,7 +19,7 @@ const Singleproject = () => {
             <div className='absolute bottom-2 left-0 uppercase text-white font-bold text-2xl border-b-white font-sans bg-black/40 px-3 py-1 '>MovieWeb</div>
         </div>
             <div className='m-auto'>
-                <h3 className='flex flex-col items-center justify-center text-sm  font-light dark:text-white tracking-tight text-justify'>A simple and eye catchy Movie Information and Movie Booking completely responsive reactapp with attractive stylish user interface with MaterialUI. It has many features like Add to favourites, Search by movie name , search by movie rating and also a dummy movie ticket booking Ui. So why wait ? try it now !</h3>
+                <h3 className='flex flex-col items-center justify-center text-sm  font-light dark:text-white tracking-tight text-justify font-monts'>A simple and eye catchy Movie Information and Movie Booking completely responsive reactapp with attractive stylish user interface with MaterialUI. It has many features like Add to favourites, Search by movie name , search by movie rating and also a dummy movie ticket booking Ui. So why wait ? try it now !</h3>
                <div className='flex flex-wrap mt-1'>
                     <span className='bg-[hsl(263,100%,63%)] rounded-full mt-2 text-white px-3 py-1 font-bold mr-2  justify-center items-center dark:bg-[#170338]/40 text-sm'>
                             React.js
