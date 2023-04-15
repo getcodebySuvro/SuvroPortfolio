@@ -25,7 +25,7 @@ const Skills = () => {
             <div className='grid md:grid-cols-2 lg:grid-cols-4 gap-4 pt-5  md:mb-[180px] lg:mb-0   '>
 
                 <div data-aos="zoom-in"  data-aos-delay="1200">
-                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
+                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7a28ff87] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
                         <div className='grid grid-cols-2 gap-2 justify-start items-center'>
                             <div className='m-auto rounded '>
                                 <Image placeholder='blur' objectFit='cover' src={html} width="50" height="50" alt="html" className='rounded'/>
@@ -39,7 +39,7 @@ const Skills = () => {
                 </div>
                 
                 <div data-aos="zoom-in"  data-aos-delay="1400">
-                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none'  >
+                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7a28ff87] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none'  >
                         <div className='grid grid-cols-2 gap-2 justify-center items-center'>
                             <div className='m-auto rounded'>
                                 <Image priority objectFit='cover' src={css} width="50" height="50" alt="css" className='rounded'/>
@@ -52,7 +52,7 @@ const Skills = () => {
                 </div>
 
                 <div  data-aos="zoom-in"  data-aos-delay="1500">
-                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:hover:text-white dark:hover:shadow-none' >
+                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7a28ff87] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:hover:text-white dark:hover:shadow-none' >
                         <div className='grid grid-cols-2 gap-2 justify-center items-center'>
                             <div className='m-auto rounded'>
                                 <Image priority objectFit='cover' src={tailwind} width="50" height="50" alt="Tailwindcss" className='rounded'/>
@@ -65,7 +65,7 @@ const Skills = () => {
                  </div>
                  
                 <div data-aos="zoom-in"  data-aos-delay="1600">
-                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none ' >
+                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7a28ff87] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none ' >
                         <div className='grid grid-cols-2 gap-2 justify-center items-center'>
                             <div className='m-auto rounded'>
                                 <Image priority objectFit='cover' src={js} width="50" height="50" alt="javascript" className='rounded'/>
@@ -79,7 +79,7 @@ const Skills = () => {
                  
                 
                 <div data-aos="zoom-in"  data-aos-delay="1800">
-                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
+                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7a28ff87] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
                         <div className='grid grid-cols-2 gap-2 justify-center items-center'>
                             <div className='m-auto rounded'>
                                 <Image priority objectFit='cover' src={react} width="50" height="50" alt="react.js" className='rounded'/>
@@ -92,7 +92,7 @@ const Skills = () => {
                 </div>
 
                 <div data-aos="zoom-in"  data-aos-delay="2000">
-                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
+                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7a28ff87] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
                         <div className='grid grid-cols-2 gap-2 justify-center items-center'>
                             <div className='m-auto rounded'>
                                 <Image priority objectFit='cover' src={next} width="50" height="50" alt="Next.js" className='rounded'/>
@@ -106,7 +106,7 @@ const Skills = () => {
 
                  
                 <div  data-aos="zoom-in"  data-aos-delay="2100">
-                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
+                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7a28ff87] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
                         <div className='grid grid-cols-2 gap-2 justify-center items-center'>
                             <div className='m-auto rounded'>
                                 <Image priority objectFit='cover' src={node} width="50" height="50" alt="Node.js" className='node.js'/>
@@ -119,7 +119,7 @@ const Skills = () => {
                 </div>
                  
                 <div  data-aos="zoom-in"  data-aos-delay="2200">
-                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
+                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7a28ff87] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
                         <div className='grid grid-cols-2 gap-2 justify-center items-center'>
                             <div className='m-auto rounded'>
                                 <Image priority objectFit='cover' src={express} width="50" height="50" alt="Express.js" className='rounded'/>
@@ -134,7 +134,7 @@ const Skills = () => {
                 
 
                  <div  data-aos="zoom-in"  data-aos-delay="2300">
-                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
+                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7a28ff87] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
                         <div className='grid grid-cols-2 gap-2 justify-center items-center'>
                             <div className='m-auto rounded'>
                                 <Image priority objectFit='cover' src={mongodb} width="50" height="50" alt="Mongodb" className='rounded'/>
@@ -147,7 +147,7 @@ const Skills = () => {
                  </div>
 
                  <div  data-aos="zoom-in"  data-aos-delay="2400">
-                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
+                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7a28ff87] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
                         <div className='grid grid-cols-2 gap-2 justify-center items-center'>
                             <div className='m-auto rounded'>
                                 <Image priority objectFit='cover' src={sql} width="50" height="50" alt="MySQL" className='rounded'/>
@@ -160,7 +160,7 @@ const Skills = () => {
                  </div>
 
                  <div  data-aos="zoom-in"  data-aos-delay="2500">
-                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
+                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7a28ff87] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:shadow-none dark:hover:text-white dark:hover:shadow-none' >
                         <div className='grid grid-cols-2 gap-2 justify-center items-center'>
                             <div className='m-auto rounded'>
                                 <Image priority objectFit='cover' src={photoshop} width="90" height="50" alt="Photoshop" className='rounded'/>
@@ -173,7 +173,7 @@ const Skills = () => {
                  </div>
 
                  <div  data-aos="zoom-in"  data-aos-delay="2600">
-                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7b28ff] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:hover:text-white dark:hover:shadow-none' >
+                    <div className='p-6 mx-2 shadow-xl rounded-xl hover:scale-105 hover:text-[#7b28ff] hover:shadow-[#7a28ff87] hover:shadow-lg ease-in duration-200  dark:bg-[#7b28ff] dark:text-slate-300 dark:hover:text-white dark:hover:shadow-none' >
                         <div className='grid grid-cols-2 gap-2 justify-center items-center'>
                             <div className='m-auto rounded'>
                                 <Image priority objectFit='cover' src={illu} width="80" height="50" alt="Illustrator" className='rounded'/>

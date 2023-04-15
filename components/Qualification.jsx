@@ -21,7 +21,7 @@ const Qualification = () => {
         <div  className='dark:text-white  flex justify-center items-center mt-10 md:mt-20 mx-5 md:mx-10 '>
                 <div  className='w-full flex flex-col lg:flex-row items-center justify-center text-center'>
                     <div data-aos="zoom-in" data-aos-delay="1300">
-                            <div  className=' lg:mx-2 shadow-lg shadow-slate-400 rounded-lg px-5 py-3 flex justify-center items-center flex-col hover:shadow-[#7b28ff] hover:scale-105 hover:text-[#7b28ff]/60 ease-in duration-200 dark:shadow-none dark:bg-[#7b28ff] dark:hover:text-white '>
+                            <div  className=' lg:mx-2 shadow-lg shadow-slate-400 rounded-lg px-5 py-3 flex justify-center items-center flex-col hover:shadow-[#7a28ff87] hover:scale-105 hover:text-[#7b28ff]/60 ease-in duration-200 dark:shadow-none dark:bg-[#7b28ff] dark:hover:text-white '>
                             <span className='px-3 py-1  rounded-full font-sans font-bold text-[#7b28ff] dark:text-white dark:bg-[#170338]/80 dark:mb-2'>Class 10th</span>
                             <div className='font-bold uppercase dark:text-slate-100 '>Mitra Institution</div>
                             <div className='dark:text-slate-100'>82%</div>
@@ -39,7 +39,7 @@ const Qualification = () => {
                      </div>
 
                     <div  data-aos="zoom-in" data-aos-delay="1500">
-                        <div className='lg:mx-2  flex justify-center items-center flex-col shadow-lg shadow-slate-400 rounded-lg px-5 py-3 hover:shadow-[#7b28ff] hover:scale-105 hover:text-[#7b28ff]/60 ease-in duration-200 
+                        <div className='lg:mx-2  flex justify-center items-center flex-col shadow-lg shadow-slate-400 rounded-lg px-5 py-3 hover:shadow-[#7a28ff87] hover:scale-105 hover:text-[#7b28ff]/60 ease-in duration-200 
                         dark:shadow-none dark:bg-[#7b28ff] dark:hover:text-white '>
                         <span className='px-3 py-1 rounded-full font-sans font-bold text-[#7b28ff] dark:text-white dark:bg-[#170338]/80 dark:mb-2'>Class 12th</span>
                         <div className='font-bold uppercase dark:text-slate-100'>Barisha High School</div>
@@ -58,7 +58,7 @@ const Qualification = () => {
 
 
                     <div data-aos="zoom-in" data-aos-delay="1700">
-                        <div  className='lg:mx-2 flex justify-center items-center flex-col shadow-lg shadow-slate-400 rounded-lg px-5 py-3 hover:shadow-[#7b28ff] hover:scale-105 hover:text-[#7b28ff]/60 ease-in duration-200 
+                        <div  className='lg:mx-2 flex justify-center items-center flex-col shadow-lg shadow-slate-400 rounded-lg px-5 py-3 hover:shadow-[#7a28ff87] hover:scale-105 hover:text-[#7b28ff]/60 ease-in duration-200 
                         dark:shadow-none dark:bg-[#7b28ff] dark:hover:text-white '>
                         <span className='px-3 py-1 rounded-full font-sans font-bold text-[#7b28ff] dark:text-white dark:bg-[#170338]/80 dark:mb-2 '>BE Printing Engineering</span>
                         <div className='font-bold uppercase dark:text-slate-100'> Jadavpur University</div>
