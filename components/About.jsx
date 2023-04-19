@@ -4,6 +4,7 @@ import dp from './assets/dp.jpg'
 const About = () => {
   return (
     <div className='flex flex-col  w-full h-full md:h-screen items-center  p-2 pt-20 '  id="about">
+        
         <div className='max-w-[1240px] my-auto mx-5  grid md:grid-cols-2 lg:grid-cols-3  md:mx-10  gap-10 md:items-center'>
             <div className='md:col-span-1 lg:col-span-2' >
                     <p className='text-xl tracking-widest uppercase text-slate-500 dark:text-slate-300' >
