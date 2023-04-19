@@ -58,7 +58,7 @@ const lightthemeChanger = (e)=>{
   document.body.classList.remove("darkbg");
 document.body.classList.add("lightkbg");
 localStorage.setItem("theme","light");
-setTheme("light")
+setTheme("light");
 }
 
 
