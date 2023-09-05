@@ -15,7 +15,7 @@ const About = () => {
                 
                 <p data-aos="fade-right" data-aos-delay="1300" className='dark:text-white tracking-tight '>
                     <i>
-                    A tech enthusiast person with a creative approach for solving problems. 
+                    A tech enthusiast person with a creative approach for solving problems.
                         Graduated from Jadavpur University and looking forward to take part 
                         in upcoming opportunities that push my boundaries and add to my learning curve. Always ready to undertake new endeavours and work hard with 
                         esteem and dedication.
